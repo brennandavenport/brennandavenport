@@ -1,3 +1,3 @@
 HelloWorld("print");
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/8b848eec-38c0-4859-8579-6e8151c8cf7c" />
+<img width="640" height="299" alt="image" src="https://github.com/user-attachments/assets/11543664-edd1-4da3-9aec-eab07dbaff0d" />
