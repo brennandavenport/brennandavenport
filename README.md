@@ -1,3 +1,1 @@
-HelloWorld("print");
-
-<img width="640" height="299" alt="image" src="https://github.com/user-attachments/assets/11543664-edd1-4da3-9aec-eab07dbaff0d" />
+<img width="640" height="299" alt="image" src="https://programmerhumor.io/programming-memes/return-to-monke-the-hello-world-paradox-u6je" />
